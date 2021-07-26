@@ -1,0 +1,1 @@
+fem e primer fitxer de c pel git
